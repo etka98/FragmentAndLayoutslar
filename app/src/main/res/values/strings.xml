@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FragmentAndLayoutslar</string>
+    <string name="dogus_tek">DOGUS TEK</string>
+    <string name="company">COMPANY</string>
+    <string name="_2022">2022</string>
+    <string name="graduation_nyear">GRADUATION \nYEAR</string>
+    <string name="marmara">MARMARA</string>
+    <string name="university">UNIVERSITY</string>
+    <string name="unknown">UNKNOWN</string>
+    <string name="hometown">HOMETOWN</string>
+    <string name="_1998">1998</string>
+    <string name="born_date">BORN DATE</string>
+    <string name="uzun">UZUN</string>
+    <string name="surname">SURNAME</string>
+    <string name="etka">ETKA</string>
+    <string name="name">NAME</string>
+    <string name="open_the_table">OPEN THE TABLE</string>
+</resources>
